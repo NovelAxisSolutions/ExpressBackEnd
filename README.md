@@ -13,8 +13,8 @@ This is a simple RESTful API for managing products, built with Node.js and Expre
 
 1. Clone the repository:
     ```sh
-    git clone <your-repo-url>
-    cd product-api
+    git clone https://github.com/NovelAxisSolutions/ExpressBackEnd.git
+    cd ExpressBackEnd
     ```
 
 2. Install the dependencies:
